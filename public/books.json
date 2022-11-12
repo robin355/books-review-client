@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "name": "Don Quixote",
+        "price": "$20",
+        "author": "Miguel de Cervantes",
+        "image": "https://book-assets.openroadmedia.com/9781504044486.jpg",
+        "describe": "Often referred to as the first modern European novel, Don Quixote follows the exploits of the titular noble who becomes obsessed with the romantic notion of chivalry. On a self-imposed mission to become a knight-errant, Don Quixote recruits common farmer, Sancho Panza, as his squire. Unfortunately, however, their quests rarely end well—among other misadventures, Don Quixote does battle with a herd of sheep, attacks a group of monks, and even frees a group of convicted criminals."
+    },
+    {
+        "id": 2,
+        "name": "Lord of the Rings",
+        "price": "$50",
+        "author": "J.R.R. Tolkien",
+        "image": "https://orion-uploads.openroadmedia.com/sm_f7e651-tolkien-lordoftherings.jpg",
+        "describe": "This high-fantasy novel is a famous three volume epic. It centers around an all powerful ring forged by the Dark Lord Sauron. For many years the ring is sought after by all likes, but at the start of the novel, it resides in the simple home of the hobbit Bilbo Baggins. Bilbo sets a momentous quest upon his cousin Frodo’s shoulders, tasking him with the journey to Mount Doom to destroy the ring."
+    },
+    {
+        "id": 3,
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "price": "$150",
+        "author": "J.K. Rowling",
+        "image": "https://orion-uploads.openroadmedia.com/sm_9333ba5b72d2-hp.jpg",
+        "describe": "The most recent novel on this list, Harry Potter and the Sorcerer’s Stone brings readers into a world of magic at Hogwarts School of Witchcraft and Wizardry. On his eleventh birthday, Harry’s magical heritage is brought to light by the bumbling half-giant Hagrid. As he embarks on his new life as a wizard, he finds that there’s more to this news than just learning spells and potions. The Dark Lord Voldemort, who had tried and failed to kill Harry as an infant, is regaining power, and Harry stands in his path."
+    },
+    {
+        "id": 4,
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "price": "$100",
+        "author": "Agatha Christie",
+        "image": "https://orion-uploads.openroadmedia.com/sm_9333ba5b72d2-hp.jpg",
+        "describe": "From acclaimed mystery author Agatha Christie, And Then There Were None is a mastery of tension. A quirky millionaire hosts a gathering of eight strangers on a private island off of the English coast. When the guests arrive, the elusive host is nowhere to be found. In his place, however, is the accusation of murder upon each of the guests."
+    },
+    {
+        "id": 5,
+        "name": "And Then There Were None",
+        "price": "$75",
+        "author": " Lewis Carroll",
+        "image": "https://orion-uploads.openroadmedia.com/sm_e82064-and-then-there-were-none.jpg",
+        "describe": "In this quintessential novel, seven-year-old Alice stumbles down a rabbit hole into a fantastical world of wonder and trouble. While navigating this new and peculiar place, Alice encounters many enchanting anthropomorphic creatures, like the iconic White Rabbit and the Cheshire Cat. Carrol’s work twists logic and spins riddles, giddily tossing convention aside. Now one of the cornerstones of the fantasy genre, Alice’s Adventures in Wonderland holds a dear place in the hearts of both children and adults."
+    },
+    {
+        "id": 6,
+        "name": "Alice's Adventures in Wonderland",
+        "price": "$65",
+        "author": "C.S. Lewis",
+        "image": "https://book-assets.openroadmedia.com/9781497644984.jpg",
+        "describe": "As the first of seven novels in the series The Chronicles of Narnia, this book brings to life the fantastical world of Narnia, a place full of talking animals and magic. The story unfolds when the four Pevensie children are evacuated from England during wartime to stay in the old house of a kind professor. When the youngest child, Lucy, enters a wardrobe to find a vast, snow-filled land, she and her siblings are dragged into a battle of good and evil."
+    },
+    {
+        "id": 7,
+        "name": "The Lion, the Witch, and the Wardrobe",
+        "price": "$45",
+        "author": " Carlo Collodi",
+        "image": "https://orion-uploads.openroadmedia.com/sm_c19ae1-the-lion-the-witch-and-the-wardrobe-book.jpg",
+        "describe": "This tale follows a marionette boy, Pinocchio, crafted out of a talking log by the poor woodcarver, Gepetto. Ill-behaved Pinocchio is peculiar, with a nose that grows with every lie told. As the puppet boy travels out into the world, he finds that it holds more trouble and treachery than even he can handle."
+    },
+    {
+        "id": 8,
+        "name": "Catcher in the Rye",
+        "price": "$55",
+        "author": " J.D. Salinger",
+        "image": "https://orion-uploads.openroadmedia.com/sm_2f32b6-catcher-in-the-rye-red.jpg",
+        "describe": "This novel, narrated by the iconic 16-year-old rebel Holden Caulfield, is a staple in more than just tenth grade English classrooms across America. Weaving a beloved story, Holden embarks on a personal journey back to New York following his expulsion from boarding school. As Holden battles the ever present adolescent pains of alienation and superficiality, the novel also dives into a conversation on topics such as innocence and loss. If you’ve got a love for the classic American novel, don’t be a phony—pick this one up for a read."
+    },
+    {
+        "id": 9,
+        "name": "Catcher in the Rye",
+        "price": "$112",
+        "author": "L. M. Montgomery",
+        "image": "https://orion-uploads.openroadmedia.com/sm_2f32b6-catcher-in-the-rye-red.jpg",
+        "describe": "Anne Shirley is a young orphan of eleven years who is mistakenly sent to the Cuthbert siblings' Green Gables farm. The Cuthberts—who had sent for an orphan boy to help with the farm chores—find Anne to be charming and determined, and decide to let her stay. Settling in to her first real home, Anne spreads joy about the island with her fanciful imagination. "
+    },
+    {
+        "id": 10,
+        "name": "Anne of Green Gables",
+        "price": "$66",
+        "author": "Jules Verne",
+        "image": "https://book-assets.openroadmedia.com/9781497659681.jpg",
+        "describe": "A list of the most popular books of all time must include something from the science fiction master Jules Verne, who also penned Around the World in Eighty Days and Journey to the Center of the Earth. In this tale, the Atlantic Ocean is plagued by the presence of a strange monster. Harpoonist Ned Land joins marine biologist Aronnax and his servant, Conseil, in order to track down and kill the sea creature. However, the task is not as simple as it seems. In their journeys, they encounter the vengeful Captain Nemo and his submarine vessel, the Nautilus."
+    },
+    {
+        "id": 11,
+        "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "price": "$240",
+        "author": "Robert C. Martin",
+        "image": "https://hackr.io/blog/uploads/images/clean-code-a-handbook-of-agile-software-craftsmanship-1st-edition.jpg",
+        "describe": "Programming is about polishing the craft with years of trial and error. I wish there was a way to save yourself from all the hard work by learning from the mistakes of other programmers? Fortunately, there is, and it is known to the world as the Clean Code: A Handbook of Agile Software Craftsmanship book from the legendary Uncle Bob."
+    },
+    {
+        "id": 12,
+        "name": "Introduction to Algorithms",
+        "price": "$260",
+        "author": "Thomas H. Cormen",
+        "image": "https://hackr.io/blog/uploads/images/introduction-to-algorithms-eastern-economy-edition.jpg",
+        "describe": "The name of the book is self-explanatory. It is what the title suggests, i.e., Introduction to Algorithms. Also known as CLRS, a reference to the last name of the authors of the book, it goes in-depth into a range of algorithms divided across several self-contained chapters. All the algorithms discussed in the Introduction to Algorithms book are amply explained."
+    },
+    {
+        "id": 13,
+        "name": "Structure and Interpretation of Computer Programs (SICP)",
+        "price": "$125",
+        "author": "Harold Abelson",
+        "image": "https://hackr.io/blog/uploads/images/structure-and-interpretation-of-computer-programs-2nd-edition-mit-electrical-engineering-and-computer-science1.jpg",
+        "describe": "The Structure and Interpretation of Computer Programs, a.k.a. SICP is among the best books to learn the fundamentals of programming. Employed as a foundational course to programming at MIT, SICP is a generic programming book that uses Scheme to illustrate the various programming concepts."
+    },
+    {
+        "id": 14,
+        "name": "The Clean Coder: A Code of Conduct for Professional Programmers",
+        "price": "$42",
+        "author": "Robert C. Martin",
+        "image": "https://hackr.io/blog/uploads/images/the-clean-coder.jpg",
+        "describe": "Compiled by the seasoned software engineer and author Robert C. Martin a.k.a. Uncle Bob, The Clean Coder book covers the practices, techniques, and tools of true software craftsmanship. The book not only tells you how to write clean code but also how to build the attitude of a skilled professional programmer."
+    },
+    {
+        "id": 15,
+        "name": "Code Complete: A Practical Handbook of Software Construction",
+        "price": "$90",
+        "author": "Steve McConnell",
+        "image": "https://hackr.io/blog/uploads/images/code-caomplete.jpg",
+        "describe": "The Code Complete book is held dearly among the best practical guides on programming. The programming book has no shortage of code examples that thoroughly illustrate the art of and science behind software development."
+    },
+    {
+        "id": 16,
+        "name": " Design Patterns: Elements of Reusable Object-Oriented Software",
+        "price": "$76",
+        "author": " Erich Gamma",
+        "image": "https://hackr.io/blog/media/design-pattern.jpg",
+        "describe": "If you don’t have a good grasp over UML, you might find it difficult to ingest some of the information and examples compiled in the programming book. That, however, will not stop you from appreciating the beauty of the narration in the Design Patterns book, which is easy and informative."
+    },
+    {
+        "id": 17,
+        "name": " The Pragmatic Programmer",
+        "price": "$110",
+        "author": "Andrew Hunt",
+        "image": "https://hackr.io/blog/uploads/images/the-pragmatic-programmer-your-journey-to-mastery-20th-anniversary-edition-2nd-edition-2nd-edition.jpg",
+        "describe": "Since its creation in 1999 by its authors to aid its clientele to develop better software, The Pragmatic Programmer has succeeded in becoming one of the highly-revered programming books. This book is for every coder looking to transcend to be a skilled software developer and a full-fledged programmer."
+    },
+    {
+        "id": 18,
+        "name": "Head First Design Patterns: A Brain-Friendly Guide",
+        "price": "$70",
+        "author": "Eric Freeman",
+        "image": "https://hackr.io/blog/uploads/images/head-first-design-patterns-a-brain-friendly-guide-1st-edition.jpg",
+        "describe": "The Head First book series is known for its innovative way of breaking down complex topics into simpler, easy-to-understand units. The Head First Design Patterns: A Brain-Friendly Guide is compiled based on this tried-and-tested formula."
+    },
+    {
+        "id": 19,
+        "name": " Martin Fowler",
+        "price": "$90",
+        "author": "Martin Fowler",
+        "image": "https://hackr.io/blog/uploads/images/refactoring-improving-the-design-of-existing-code-2nd-edition-addison-wesley-signature-series-fowler-2nd-edition.jpg",
+        "describe": "Refactoring is a vital programming concept for understanding the underlying aspects of writing clean, robust code. Martin Fowler’s Refactoring: Improving the Design of Existing Codebook covers all major refactorings that any skilled programmer must know about."
+    },
+    {
+        "id": 20,
+        "name": "The Art of Computer Programming, Volumes 1-4",
+        "price": "$55",
+        "author": "Donald E. Knuth",
+        "image": "https://hackr.io/blog/uploads/images/the-art-of-computer-programming-volumes-1-4a-boxed-set-1st-edition.jpg",
+        "describe": "Although primarily written as a reference, The Art of Computer Programming has gained a cult following of resolute programmers who are always ready to push their limits. The programming book series dives deeper into the realm of computer science algorithms and is not an easy read. Bill Gates reviewed this book series by stating:"
+    },
+    {
+        "id": 21,
+        "name": "Automating the Boring Stuff With Python",
+        "price": "$95",
+        "author": "AI Sweigart",
+        "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Best_Books_for_Coding_Automate_the_Boring_Stuff_With_Python.jpg",
+        "describe": "This book is purely for beginner-level coders. The author makes it clear that he is comfortable developing Python programs. So, he uses python programming language in this book. The author of this book mentions a step-by-step explanation for every program that makes the learning curve linear, and you can get started with your coding like icing on the cake."
+    }
+]

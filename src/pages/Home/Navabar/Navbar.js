@@ -21,7 +21,13 @@ const Navbar = () => {
                             {iteamMenu}
                         </ul>
                     </div>
-                    <Link to='/' className="btn btn-ghost normal-case text-xl">Book Mela</Link>
+                    <div className="w-12 rounded-full">
+                        <div >
+                            <img alt='books' src="https://cdn-icons-png.flaticon.com/512/1903/1903162.png" />
+                            <span className='text-orange-600'>Book</span>
+                        </div>
+                    </div>
+
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal p-0">

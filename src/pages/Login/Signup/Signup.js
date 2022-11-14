@@ -1,10 +1,23 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import { useForm } from 'react-hook-form';
 import { Link } from 'react-router-dom'
+import { toast } from 'react-toastify';
+import { AuthContext } from '../../../Context/AuthProvider/AuthProvider';
 const Signup = () => {
     const { register, handleSubmit, formState: { errors } } = useForm()
+    const { createUser } = useContext(AuthContext)
     const handleSignup = (data) => {
         console.log(data)
+        createUser(data.email, data.password)
+            .then(result => {
+                const user = result.user;
+                toast.success('Register Successfully')
+                console.log(user)
+            })
+            .catch(error => {
+                toast.warning('Register UnComplete')
+                console.log(error)
+            })
     }
     return (
         <div className='h-[800px] flex justify-center items-center'>
@@ -29,7 +42,7 @@ const Signup = () => {
                         <label className="label">
                             <span className="label-text">Password</span>
                         </label>
-                        <input type="password" {...register("password", { required: true, maxLength: { value: 6, message: 'Password Must be 6 character' } })} className="input input-bordered w-full" />
+                        <input type="password" {...register("password", { required: true })} className="input input-bordered w-full" />
                     </div>
                     {errors.password && <p className='text-red-600'>{errors.password?.message}</p>}
                     <input type="submit" className='btn btn-accent w-full mt-2' />

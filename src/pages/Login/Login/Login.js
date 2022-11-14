@@ -1,10 +1,27 @@
-import React from 'react';
+import { React, useContext } from 'react';
 import { useForm } from 'react-hook-form';
-import { Link } from 'react-router-dom'
+import { Link, useLocation, useNavigate } from 'react-router-dom'
+import { toast } from 'react-toastify';
+import { AuthContext } from '../../../Context/AuthProvider/AuthProvider';
 const Login = () => {
     const { register, handleSubmit, formState: { errors } } = useForm()
+    const { SignIn } = useContext(AuthContext)
+    const navigate = useNavigate()
+    const location = useLocation()
+    const from = location.state?.from?.pathname || '/'
     const handleLogin = (data) => {
         console.log(data)
+        SignIn(data.email, data.password)
+            .then(result => {
+                const user = result.user
+                toast.success('Login Successfully')
+                navigate(from, { replace: true })
+                console.log(user)
+            })
+            .catch(error => {
+                toast.warning('Login Failed')
+                console.log(error)
+            })
     }
     return (
         <div className='h-[800px] flex justify-center items-center'>

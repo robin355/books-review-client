@@ -5,7 +5,7 @@ import { AuthContext } from '../../Context/AuthProvider/AuthProvider';
 const DynamicBook = () => {
     const book = useLoaderData()
     const { user } = useContext(AuthContext)
-    const { name, image, price, author, describe, _id } = book;
+    const { name, image, price, author, describe } = book;
     return (
         <div>
             <div className="card h-[700px] bg-red-100 shadow-xl">
@@ -26,7 +26,7 @@ const DynamicBook = () => {
                 {
                     user?.uid ?
                         <div className="text-center">
-                            <button className="btn btn-outline btn-success"><Link to={`/books/${_id}`}>Add Review</Link></button>
+                            <button className="btn btn-outline btn-success"><Link to='/reviews'>Add Review</Link></button>
                         </div>
                         :
                         <p className='text-orange-700'>Please Login And Added Review <Link className='text-green-600' to='/login'>Login</Link></p>

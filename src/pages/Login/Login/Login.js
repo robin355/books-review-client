@@ -43,7 +43,7 @@ const Login = () => {
                     </div>
                     <h1>Forget Password?</h1>
                     {errors.password && <p className='text-red-600'>{errors.password?.message}</p>}
-                    <input type="submit" className='btn btn-accent w-full mt-2' />
+                    <input type="submit" className='btn btn-accent w-full mt-2' value='Login' />
                 </form>
                 <h2>New to Books Lover?<Link className='text-secondary font-bold' to='/signup'>Create Account</Link></h2>
                 <div className="divider">OR</div>

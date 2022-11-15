@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom';
 const Navbar = () => {
     const iteamMenu = <>
         <li><Link to='/home'>Home</Link></li>
-        <li><Link to='/books'>Books</Link></li>
         <li><Link to='/review'>My Review</Link></li>
         <li><Link to='/service'>Add Survice</Link></li>
         <li><Link to='/login'>Login</Link></li>
